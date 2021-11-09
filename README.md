@@ -1,5 +1,6 @@
-### Hi there 👋 
+### Hi there!
 ### I'm a Visual Artist and Front-End Developer in the making
+###
 📫 How to reach me: alejandra.gnzlz.dz@gmail.com
 
 <!--
