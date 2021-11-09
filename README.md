@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm a Visual Artist and a Front-End Developer in the making
+### I'm a Visual Artist and Front-End Developer in the making
 
 <!--
 **alejandraglezd/alejandraglezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
