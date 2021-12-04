@@ -1,5 +1,5 @@
-### Hello hello hello!
-## I'm a Visual Artist and Front-End Developer in the making
+## Hello hello hello!
+### I'm a Visual Artist and Front-End Developer in the making
 ###
 ###
 ###
