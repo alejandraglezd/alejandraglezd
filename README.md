@@ -1,5 +1,5 @@
 ### Hello hello hello!
-## I'm a Visual Artist and Front-End Developer in the making who loves music and design 
+## I'm a Visual Artist and Front-End Developer in process who loves music and design 
 ###
 ###
 ###
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 ## Statistics
-![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandraglezd&show_icons=true&theme=cobalt)
+![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandraglezd&show_icons=true&theme=onedark)
