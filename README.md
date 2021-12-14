@@ -1,5 +1,5 @@
 ### Hello hello hello!
-## I'm a Front-End Developer in process and Visual Artist who loves music and design 
+## I'm a Front-End Developer in process + Visual Artist who loves music and design 
 ###
 ###
 ###
