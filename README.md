@@ -5,7 +5,7 @@
 ###
 ###
 ###
-📫 How to reach me: alejandra.gnzlz.dz@gmail.com
+Reach me: alejandra.gnzlz.dz@gmail.com
 
 <!--
 **alejandraglezd/alejandraglezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
