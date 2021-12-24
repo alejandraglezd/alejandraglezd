@@ -1,4 +1,4 @@
-### Hello hello hello!
+## Hello hello hello!
 ## I'm a Visual Artist & Front-End Developer in process who loves music and design 
 ###
 ###
